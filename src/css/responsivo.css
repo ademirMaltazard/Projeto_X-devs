@@ -4,8 +4,9 @@
     }
 
     .personagens-slider{
-        padding: 0 15px;
+        padding: 0 15px 30px 15px;
         gap: 10px;
+        margin: 10px;
     }
 
     .btn-seta {
