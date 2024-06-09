@@ -32,7 +32,7 @@ body {
 }
 
 .btn-seta {
-    background-color: #ffffff;
+    background-color: #cacaca;
     width: 70px;
     height: 70px;
     border-radius: 50px;
@@ -49,8 +49,13 @@ body {
     transform: rotateY(180deg);
 }
 
+.btn-seta img {
+    width: 50px;
+    height: 50px;
+}
+
 .btn-seta:hover {
-    background-color: #8351fe;
+    background-color: #375794;
 }
 
 .cartao {
